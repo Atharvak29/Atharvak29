@@ -28,7 +28,7 @@ I'm open to collaborating on projects where I can contribute my skills and knowl
 
 I'm always excited to connect with fellow data enthusiasts, developers, and anyone passionate about technology. Feel free to reach out to me at:
 
-- Email: atharvak29@gmail.com
+- Email: atharvak2905@gmail.com
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/atharva-kangane/)
 
 Let's learn, grow, and explore the data world together! 🚀
