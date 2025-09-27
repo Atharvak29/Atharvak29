@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring data scientist who i
 
 - 🌱 I’m currently focusing on building a strong foundation in data science, with a particular interest in the following areas:
   - Data Structures and Algorithms
-  - Object-Oriented Programming (Python)
+  - Learning GEN AI
   - Statistics and Probability
 
 - 💡 I'm enthusiastic about using data to solve real-world problems and uncover meaningful insights.
